@@ -1,0 +1,14 @@
+.control-panel {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background: rgba(10,10,10,0.6);
+  color: white;
+  padding: 10px;
+  border-radius: 8px;
+  z-index: 999;
+  font-family: sans-serif;
+}
+.control-panel select, .control-panel input, .control-panel button {
+  margin: 4px;
+}
